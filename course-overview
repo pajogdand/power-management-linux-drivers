@@ -1,0 +1,28 @@
+This course is all about mastering power management techniques in Linux. Participants will learn to configure the Linux kernel for efficient power usage, understand how Linux handles power, and develop drivers with power management features. Hands-on activities, including coding exercises, form a significant part of the course to ensure practical learning. It's tailored for embedded systems engineers or technicians with prior experience in C programming on Linux and basic knowledge of Linux kernel and driver programming.
+
+Objectives:
+
+Configure Linux kernel for optimal power management.
+Understand Linux power management.
+Develop drivers with power management.
+Optimize low power modes.
+Install and use power-management utilities.
+Course Environment:
+
+Code examples, exercises, and solutions provided.
+PCs (Linux or Windows) available for practical sessions, with target boards provided.
+For onsite training, installation manuals and target boards are provided.
+Preconfigured virtual machines available for post-course practice.
+Prerequisites:
+
+Proficiency in C programming on Linux.
+Basic knowledge of Linux kernel and driver programming.
+Target Audience:
+
+Embedded systems engineers or technicians meeting the prerequisites.
+Evaluation:
+
+Course Outline:
+First Day: Covers kernel programming reminders, sysfs file system, power management standards (APM and ACPI), and power management techniques like suspend and hibernate.
+Second Day: Focuses on power management in drivers, CPU frequency governors, and idle CPU governors.
+Throughout, practical exercises reinforce theoretical learning, ensuring participants gain practical skills in Linux power management.
