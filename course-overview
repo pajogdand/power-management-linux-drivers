@@ -1,4 +1,8 @@
-This course is all about mastering power management techniques in Linux. Participants will learn to configure the Linux kernel for efficient power usage, understand how Linux handles power, and develop drivers with power management features. Hands-on activities, including coding exercises, form a significant part of the course to ensure practical learning. It's tailored for embedded systems engineers or technicians with prior experience in C programming on Linux and basic knowledge of Linux kernel and driver programming.
+This course is all about mastering power management techniques in Linux. 
+Participants will learn to configure the Linux kernel for efficient power usage, 
+understand how Linux handles power, and develop drivers with power management features.
+Hands-on activities, including coding exercises, form a significant part of the course to ensure practical learning. 
+It's tailored for embedded systems engineers or technicians with prior experience in C programming on Linux and basic knowledge of Linux kernel and driver programming.
 
 Objectives:
 
